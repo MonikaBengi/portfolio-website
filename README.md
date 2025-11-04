@@ -1,5 +1,8 @@
 # Monika Bengi — Portfolio Website 🌸  
 
+![Portfolio Preview](images/portfolio-preview.png)
+
+
 A clean, elegant personal portfolio, designed and built in my own style.  
 Background video, auto-rotating slideshow, GitHub & LinkedIn sections, and a popup contact form. ✨  
 
